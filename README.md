@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/MrJeremyHobbs/ASRS-Fetcher/logo_large.png)
+
 # ASRS-Fetcher
 ASRS Fetcher is a program for making bulk requests in Alma, for libraries using an ASRS machine.
 
