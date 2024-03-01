@@ -9,6 +9,3 @@ Check the [releases](https://github.com/MrJeremyHobbs/ASRS-Fetcher/releases) tab
 
 # Setup
 ASRS Fetcher uses a config.ini file to read settings, including API key, spreadsheet source file, etc.
-
-# Contact
-mr.hobbsy at gmail dot com
